@@ -36,4 +36,10 @@
 
 
 [![COSTUMER MANAGEMENT](https://img.shields.io/website?label=COSTUMER-MANAGEMENT.HEROKUAPP.COM&style=for-the-badge&url=https://costumer-management.herokuapp.com/)](https://costumer-management.herokuapp.com/)
-[![BROTHERS CARS ](https://img.shields.io/website?label=BROTHERS-CARS.HEROKUAPP.COM&style=for-the-badge&url=https://brothers-cars.herokuapp.com/)](https://brothers-cars.herokuapp.com/)
+
+[![BROTHERS CARS](https://img.shields.io/website?label=BROTHERS-CARS.HEROKUAPP.COM&style=for-the-badge&url=https://brothers-cars.herokuapp.com/)](https://brothers-cars.herokuapp.com/)
+
+[![PEOPLE-REGISTERS](https://img.shields.io/website?label=PEOPLE-REGISTERS.HEROKUAPP.COM&style=for-the-badge&url=https://people-registers.herokuapp.com/)](https://people-registers.herokuapp.com/)
+
+### Essa aplicação aqui é apenas um hobby
+[![SPRING-SEMANTIC](https://img.shields.io/website?label=SPRING-SEMANTIC.HEROKUAPP.COM&style=for-the-badge&url=https://spring-semanctic.herokuapp.com/)](https://spring-semanctic.herokuapp.com/)
