@@ -1,4 +1,4 @@
-# Fala Dev ! Aqui é o Gabriel Sales 👋
+# Oba !
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sales-3093b0168/)
